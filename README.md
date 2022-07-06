@@ -15,14 +15,14 @@
 <!-- Shields -->
 
 [![Modrinth]](https://rewrite.modrinth.com/modpacks/poko)
-[![Discord]](https://discord.gg/)
-[![Documentation]](https://poko.vercel.app/)
+[![Discord]](https://discord.gg/dCVkjehCFS)
+[![Documentation]](https://poko-mc.vercel.app/)
 
 </div>
 
 ## introduction
 
-[![ModsCount]](https://poko.vercel.app/mod-list) <-- Click to view mod lists.
+[![ModsCount]](https://poko-mc.vercel.app/mod-list) <-- Click to view mod lists.
 
 Poko is an ModPack dedicated to compatibility with the vanilla server, committed to introducing elegant tools and maintaining high performance, providing you with a highly customized gaming experience.
 
