@@ -621,3 +621,7 @@ metafile = true
 [[files]]
 file = "resourcepacks/EclecticTrove-noconfig-1.18.1-1.1.0.zip"
 hash = "694e1d8ed38791a247b78f9842c6bbed10f129e852f6ee96d5dc6ba425150849"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
+hash = "6f7200a0f120844f8aa512281efcefc5577b8392f256b01c076767e82a78390b"
