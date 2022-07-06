@@ -1,0 +1,13 @@
+name = "Merchant Markers [Fabric]"
+filename = "MerchantMarkers-1.18.2-fabric-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2730daee34cd575c98c1eadf1acd74efef47c29e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3850812
+project-id = 554836

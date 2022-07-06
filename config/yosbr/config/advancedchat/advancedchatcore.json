@@ -1,0 +1,26 @@
+{
+  "general": {
+    "timeFormat": "hh:mm",
+    "timeTextFormat": "[%TIME%] ",
+    "time_color": "#FFFFFFFF",
+    "show_time": false,
+    "clearOnDisconnect": true,
+    "chatStack": 2,
+    "chatStackUpdate": true,
+    "messageOwnerRegex": "(?\u003c!\\[)\\b[A-Za-z0-9_§]{3,16}\\b(?!\\])",
+    "filterProfanity": false,
+    "profanityAbove": 0.0,
+    "profanityWordBoundaries": false
+  },
+  "chatscreen": {
+    "persistentText": true,
+    "color": "#64000000",
+    "moreText": true
+  },
+  "hotkeys": {
+    "openSettings": {
+      "keys": ""
+    }
+  },
+  "config_version": 1
+}

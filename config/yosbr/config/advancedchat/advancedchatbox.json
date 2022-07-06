@@ -1,0 +1,147 @@
+{
+  "general": {
+    "highlightColor": "#FFFFFF00",
+    "unhighlightColor": "#FFAAAAAA",
+    "backgroundColor": "#AA000000",
+    "suggestionSize": 10,
+    "removeIdentifier": false,
+    "prunePlayerSuggestions": true,
+    "availableSuggestionColor": "#FF969696"
+  },
+  "spellchecker": {
+    "hoverText": "\u00267$1\u0026b$2\u00267$3"
+  },
+  "config_version": 1,
+  "formatters": {
+    "commandcolorer": {
+      "active": true,
+      "commandcolorer": {
+        "commandColor": "#FFB4B4B4",
+        "errorColor": "#FFFF3C3C",
+        "defaultPalette": "pastel_rgb"
+      }
+    },
+    "jsonformatter": {
+      "active": true
+    },
+    "colorcodeformatter": {
+      "active": true
+    }
+  },
+  "suggestors": {
+    "players": {
+      "active": true
+    },
+    "calculator": {
+      "active": true
+    },
+    "shortcut": {
+      "active": true,
+      "shortcuts": [
+        {
+          "name": "happy",
+          "replace": "o((*^▽^*))o"
+        },
+        {
+          "name": "owo",
+          "replace": "ÒwÓ"
+        },
+        {
+          "name": "tablepain",
+          "replace": "‎(ﾉಥ益ಥ）ﾉ ┻━┻"
+        },
+        {
+          "name": "reee",
+          "replace": "(ノಠ益ಠ)ノ彡┻━┻"
+        },
+        {
+          "name": "worry",
+          "replace": "(❁°͈▵°͈)"
+        },
+        {
+          "name": "yeah",
+          "replace": "⤴︎ ε\u003dε\u003d(ง ˃̶͈̀ᗨ˂̶͈́)۶ ⤴︎"
+        },
+        {
+          "name": "kiss",
+          "replace": "(人´ω｀*)♡"
+        },
+        {
+          "name": "yas",
+          "replace": "╭( ･ㅂ･)و ̑̑"
+        },
+        {
+          "name": "ouch",
+          "replace": "~(\u003e_\u003c~)"
+        },
+        {
+          "name": "sick",
+          "replace": "(-﹏-。)"
+        },
+        {
+          "name": "spook",
+          "replace": "( ⚆ _ ⚆ )"
+        },
+        {
+          "name": "yay",
+          "replace": "＼(^o^)／"
+        },
+        {
+          "name": "layingdown",
+          "replace": "＿ﾉ乙(､ﾝ､)_"
+        },
+        {
+          "name": "sleep",
+          "replace": "(-_-) zzz"
+        },
+        {
+          "name": "funny",
+          "replace": "(ノ＞▽＜。)ノ"
+        },
+        {
+          "name": "comedy",
+          "replace": "(˵¯̴͒ꇴ¯̴͒˵)"
+        },
+        {
+          "name": "yessir",
+          "replace": "(-ω-ゞ"
+        },
+        {
+          "name": "bruh",
+          "replace": "(;¬_¬)"
+        },
+        {
+          "name": "wink",
+          "replace": "(｡•̀ᴗ-)"
+        },
+        {
+          "name": "cri",
+          "replace": "(;*△*;)"
+        },
+        {
+          "name": "deadinside",
+          "replace": "( ･ᴗ･̥̥̥ )"
+        },
+        {
+          "name": "bow",
+          "replace": "ヘ(_ _ヘ)"
+        },
+        {
+          "name": "success",
+          "replace": "(•̀ᴗ•́)و ̑̑"
+        },
+        {
+          "name": "dead",
+          "replace": "(×_×;)"
+        },
+        {
+          "name": "shades",
+          "replace": "(⌐■_■)"
+        }
+      ]
+    },
+    "spellcheck": {
+      "active": true
+    }
+  }
+}

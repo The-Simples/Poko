@@ -1,0 +1,13 @@
+name = "AdvancedChatMacros"
+filename = "AdvancedChatMacros-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cAbmXUCs/versions/1.18.2-1.0.0/AdvancedChatMacros-1.18.2-1.0.0.jar"
+hash-format = "sha1"
+hash = "d8a12f4fed47d0ee4b17dedd2c7afb1a0291f223"
+
+[update]
+[update.modrinth]
+mod-id = "cAbmXUCs"
+version = "KFoTSK75"

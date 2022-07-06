@@ -1,0 +1,13 @@
+name = "Simple Things"
+author = "ahdg"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "73a070ef08a23c81b4829870c7d1d95f3b8348cd25f7fae933cbe9825b5f3d78"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.1-beta.4"

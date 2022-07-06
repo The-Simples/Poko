@@ -1,0 +1,13 @@
+name = "ViaFabric"
+filename = "viafabric-0.4.7+7-main.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YlKdE5VK/versions/0.4.7+7-main/viafabric-0.4.7%2B7-main.jar"
+hash-format = "sha1"
+hash = "4ca0bd84c8f04ef70e47a278a8129e240c450889"
+
+[update]
+[update.modrinth]
+mod-id = "YlKdE5VK"
+version = "uyvP4Oy3"

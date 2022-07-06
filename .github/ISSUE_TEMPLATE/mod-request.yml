@@ -1,0 +1,58 @@
+name: 🆙Mod request [Name Here]
+description: Suggest a new mod to be included in Poko
+labels: mod
+body:
+- type: markdown
+  attributes:
+    value: |
+      ## Mod name ⤴️
+      Before you request a mod, [please search](https://github.com/The-Simples/poko/issues) if it has already been requested.
+      
+- type: dropdown
+  attributes:
+    label: Distribution types
+    description: 
+    multiple: true
+    options:
+      - CurseForge
+      - Modrinth
+      - GitHub
+  validations:
+    required: true
+    
+- type: input
+  attributes:
+    label: Relative link
+    description: If it exists, please write it.
+    placeholder: https://modrinth.com/mod/...
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why should it be in the modpack
+    description: How can the mod benefit everyone while keeping the experience "vanilla-like"?
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: Categories
+    description: Select all that match the mod.
+    multiple: true
+    options:
+      - Performance optimization
+      - Graphics optimization
+      - New feature
+      - Works like OptiFine/Bedrock Edition/Forge/etc
+      - Fixes a bug/makes another mod work
+      - Replaces an existing mod
+  validations:
+    required: true
+    
+- type: textarea
+  attributes:
+    label: Additional details
+    description: Anything else you want to add?
+  validations:
+    required: false

@@ -1,0 +1,159 @@
+{
+  "general": {
+    "active": true,
+    "alwaysShow": false,
+    "seeThrough": false,
+    "outlineColor": "#FF000000",
+    "fillColor": "#00000000",
+    "outlineType": "line",
+    "outlineWidth": 1.0,
+    "cubeOutline": false,
+    "connectType": "seamless"
+  },
+  "info": {
+    "active": true,
+    "textSize": 0.02,
+    "lineHeight": 10.0,
+    "textColor": "#FF4FFFFF",
+    "backgroundColor": "#20000000",
+    "noteblockinfo": true,
+    "signtext": true,
+    "infested": true,
+    "redstoneinfo": true,
+    "facingtext": false,
+    "blocklevel": false,
+    "waterloggedtext": false,
+    "opentext": false,
+    "persistent": false,
+    "distancetext": false,
+    "layerstext": false,
+    "dripleaftilttext": true,
+    "chargestext": true,
+    "bitestext": true,
+    "agetext": false,
+    "beetext": false,
+    "leveltext": false,
+    "coordinatestext": false
+  },
+  "blockinfo3d": {
+    "active": false,
+    "lineWidth": 2.0,
+    "lineColor": "#FFAFAFAF",
+    "infestedsilverfish": true,
+    "directionarrow": true
+  },
+  "directionarrow": {
+    "arrowType": "line",
+    "cycleArrow": {
+      "keys": ""
+    },
+    "logicalDirection": true
+  },
+  "hotkeys": {
+    "menu": {
+      "keys": "G"
+    },
+    "toggleModActive": {
+      "keys": ""
+    },
+    "toggleInfoActive": {
+      "keys": ""
+    },
+    "disableAllInfo": {
+      "keys": ""
+    },
+    "toggleInfoActive3d": {
+      "keys": ""
+    },
+    "disableAllInfo3d": {
+      "keys": ""
+    },
+    "togglePersistentForBlock": {
+      "keys": "M"
+    },
+    "clearPersistentBlocks": {
+      "keys": "N"
+    },
+    "noteblockinfo": {
+      "keys": ""
+    },
+    "signtext": {
+      "keys": ""
+    },
+    "infested": {
+      "keys": ""
+    },
+    "redstoneinfo": {
+      "keys": ""
+    },
+    "facingtext": {
+      "keys": ""
+    },
+    "blocklevel": {
+      "keys": ""
+    },
+    "waterloggedtext": {
+      "keys": ""
+    },
+    "opentext": {
+      "keys": ""
+    },
+    "persistent": {
+      "keys": ""
+    },
+    "distancetext": {
+      "keys": ""
+    },
+    "layerstext": {
+      "keys": ""
+    },
+    "dripleaftilttext": {
+      "keys": ""
+    },
+    "chargestext": {
+      "keys": ""
+    },
+    "bitestext": {
+      "keys": ""
+    },
+    "agetext": {
+      "keys": ""
+    },
+    "beetext": {
+      "keys": ""
+    },
+    "leveltext": {
+      "keys": ""
+    },
+    "coordinatestext": {
+      "keys": ""
+    },
+    "infestedsilverfish": {
+      "keys": ""
+    },
+    "directionarrow": {
+      "keys": ""
+    }
+  },
+  "color_modifiers": {
+    "outline": [
+      {
+        "name": "08a12ec-blink",
+        "active": true,
+        "duration": 5.0,
+        "offset": 0.0,
+        "type": "blink"
+      },
+      {
+        "name": "40748c5-tool",
+        "active": true,
+        "onSuitable": true,
+        "tint": "#FFFFFFFF",
+        "percent": 1.0,
+        "type": "tool"
+      }
+    ],
+    "fill": []
+  },
+  "config_version": 1
+}

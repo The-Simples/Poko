@@ -1,0 +1,13 @@
+name = "AdvancedChatHUD"
+filename = "AdvancedChatHUD-1.18.2-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lBFvglCF/versions/1.18.2-1.30/AdvancedChatHUD-1.18.2-1.3.0.jar"
+hash-format = "sha1"
+hash = "261374d019900a2894c2c6db2c1354ff269175c4"
+
+[update]
+[update.modrinth]
+mod-id = "lBFvglCF"
+version = "sNUmwJin"
