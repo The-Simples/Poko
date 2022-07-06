@@ -1,5 +1,6 @@
 docs
-*.yml	
+mkdocs.yml
 .github
 *.md
-*.mrpack
+requirements.txt
+package.json

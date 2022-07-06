@@ -1,24 +1,19 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: Simple Things
+site_name: Poko
 theme:
   name: material
   palette:
-
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
-
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
-
-
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -30,6 +25,9 @@ theme:
     - navigation.tracking
     - toc.follow
     - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
     
 plugins:
   - search
@@ -50,9 +48,24 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tabbed:
       alternate_style: true 
-      
+  - attr_list
+  - md_in_html
   - toc:
       permalink: true
- 
+nav:
+    - Home: index.md
+    - Mod List: mod-list.md
+    - Multiplay: multi-play.md
+    - Optional: recommend.md
+
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: 简体中文
+      link: /zh/
+      lang: zh
+    
 repo_url: https://github.com/The-Simples/poko
 copyright: Copyright &copy; 2022 SimpleThings
