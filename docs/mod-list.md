@@ -3,6 +3,9 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 
 **For the sake of general, we choose [Iris](https://github.com/IrisShaders/Iris). But [Canvas](https://github.com/vram-guild/canvas) has better performance and quality with shaders, 
 If you don't need OptiFine Shaders, please check their awesome shaderpacks!**
+
+*Shortcut means slug.. clicking them will lead you to original pages!*
+
 ## 🟩Common Mods
 
 ### 🚀Optimization
