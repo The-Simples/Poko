@@ -6,7 +6,7 @@ hash = "2b4c42737f1ccc403f97328c597e0abd272aad5e413a22539b3ba5c31ea943c2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6925015af6a38a6e7518cf126e060946afad2fb391e1cf87f8009e1264738cf2"
+hash = "3d7007053a7d46593aba3d145433573d18078a3b7840f7917372a1a46d91510a"
 
 [[files]]
 file = "config/yosbr/config/advancedchat/advancedchatbox.json"
@@ -22,7 +22,7 @@ hash = "d93283a06f32823a6161ca67c8399c780f286d09c9f8dd84d682b86177961be6"
 
 [[files]]
 file = "config/yosbr/config/betterblockoutline/betterblockoutline.json"
-hash = "d5ef2d4e5e2f03609feff258f6382cfb2cca1b9a73ac642e9b9cd31f5b6c5188"
+hash = "f09df83fe14a54b0b18330f9e8cef2afab128b1551ba8fa53ec6c7cb541550cf"
 
 [[files]]
 file = "config/yosbr/config/blur.json"
@@ -65,6 +65,10 @@ file = "config/yosbr/config/interactic.json5"
 hash = "cdaac8ffd6a647755e662bd2387f9eb4fbf5486cc95904def0aa33731429e296"
 
 [[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3ff2d4abae59e58524675f9dbc1da762991e529b3e19627b2666c10e55b199f4"
+
+[[files]]
 file = "config/yosbr/config/jade/jade.json"
 hash = "c9a2afffaf43f5fb4f6b30d93d262682cf5b098edfcaf01d5cf8f7cdce8656c9"
 
@@ -102,7 +106,7 @@ hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "eb18bcdc988c253e81504c93d0ec43d694d11ff45c4c5f206a9e422a2dc40d32"
+hash = "40e1f1744768d43fbdf839126a88464660492d8082a984cb2e282127528411c4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -420,11 +424,6 @@ hash = "9a71bafe41aa3c51f0ab313dd286a5bf5bf58a043a6b57c65210d023dc3f71b3"
 metafile = true
 
 [[files]]
-file = "mods/libjf.pw.toml"
-hash = "f557d401c7809173f3f9abb5b85dbe7185978096d51344818548c9cb446f4033"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d1bfbb6ca8b538cfa37e439ff8d3ffc965d20054d67d7d727f594df1113d79d0"
 metafile = true
@@ -512,11 +511,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6e361707588cde66a6c5ed3b1405ff1637df86a2d924d65b8725c4b793f364c9"
-metafile = true
-
-[[files]]
-file = "mods/respackopts.pw.toml"
-hash = "e72aaa8f9c714db009807afd5d3a6aa92abe1daebcffd7bb9b8cc81c8d2b1930"
 metafile = true
 
 [[files]]

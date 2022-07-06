@@ -15,7 +15,7 @@
 <!-- Shields -->
 
 [![Modrinth]](https://rewrite.modrinth.com/modpacks/poko)
-[![Discord]](https://discord.gg/)
+[![Discord]](https://discord.gg/dCVkjehCFS)
 [![Documentation]](https://poko-mc.vercel.app/)
 
 </div>

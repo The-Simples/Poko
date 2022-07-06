@@ -1,6 +1,8 @@
 ## Mod List - 1.18.2
 Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ - `experiment` |📦- `Used to identify dependencies`
 
+**For the sake of general, we choose [Iris](https://github.com/IrisShaders/Iris). But [Canvas](https://github.com/vram-guild/canvas) has better performance and quality with shaders, 
+If you don't need OptiFine Shaders, please check their awesome shaderpacks!**
 ## 🟩Common Mods
 
 ### 🚀Optimization
@@ -69,7 +71,7 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 
 | Mod                               | Shortcut                                                                      | Desc.                                                                                                                                                                                                       |
 | --------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✨Iris                             | [iris](https://modrinth.com/mod/iris)                                         | Shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs. (Try[`canvas`](https://github.com/grondag/canvas) if you do **NOT** need OptiFine shader packs, It's much better.) |
+| ✨Iris                             | [iris](https://modrinth.com/mod/iris)                                         | Shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs.                                                                                                                   |
 | Animatica                         | [animatica](https://modrinth.com/mod/animatica)                               | A mod implementing the OptiFine/MCPatcher animated texture format                                                                                                                                           |
 | ✨[📦-Ⅲ-5] Custom Entity Models    | [cem](https://modrinth.com/mod/cem)                                           | Custom Entity Models suport on Fabric                                                                                                                                                                       |
 | ✨[📦-Ⅲ-6] Entity Texture Features | [entitytexturefeatures](https://modrinth.com/mod/entitytexturefeatures)       | Emissive, Random & Custom texture support for entities in resourcepacks.                                                                                                                                    |
