@@ -5,7 +5,7 @@
 ![banner](assets/banner.jpg)
 <h6 align="center">1.16.5(Soon) | 🔼1.18.2(Quilt) | 1.19.1(Soon) </h6>
 Poko is an ModPack dedicated to compatibility with the vanilla server, committed to introducing elegant tools and maintaining high performance, providing you with a highly customized gaming experience.
-<br>[![Modrinth]](https://rewrite.modrinth.com/modpacks/poko)
+<br>[![Modrinth]](https://rewrite.modrinth.com/modpack/poko)
 [![Discord]](https://discord.gg/dCVkjehCFS)
 <br>**Examples speak louder than words, Lead me to [ShowCases](#showcases)**
 <br>**Attention:** Some mods may be marked by anti-cheat on some servers. Please read [this page](./multi-play) before using!
