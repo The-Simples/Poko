@@ -1,6 +1,2 @@
-docs
-mkdocs.yml
 .github
 *.md
-requirements.txt
-package.json
