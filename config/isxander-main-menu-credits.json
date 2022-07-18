@@ -4,8 +4,8 @@
     
     ],
     "top_right": [
-    {"text":"Poko v1.0","clickEvent":{"action":"open_url","value":"https://poko-mc.vercel.app/"}},
-    {"text":"Click for support","clickEvent":{"action":"open_url","value":"https://github.com/The-Simples/Poko"}}
+    {"text":"Poko v1.1","clickEvent":{"action":"open_url","value":"https://poko-mc.vercel.app/"}},
+    {"text":"Repository","clickEvent":{"action":"open_url","value":"https://github.com/The-Simples/Poko"}}
     ],
     "bottom_left": [
     

@@ -26,7 +26,7 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 
 ### 🚀Optimization
 
-| Mod                            | Shortcut                                                                | Desc.                                                                                                                       |
+| Mod                            | Shortcut                                                                | Description                                                                                                                 |
 | ------------------------------ | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | ⚠️✨C2ME                        | [c2me-fabric](https://modrinth.com/mod/c2me-fabric)                     | Improve the chunk performance                                                                                               |
 | Cull Leaves                    | [cull-leaves](https://modrinth.com/mod/cull-leaves)                     | Optimize leaves' render                                                                                                     |
@@ -46,7 +46,7 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 
 ### 🛠️ Fix
 
-| Mod             | Shortcut                                                                      | Desc.                                                                            |
+| Mod             | Shortcut                                                                      | Description                                                                      |
 | --------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | AntiGhost       | [antighost](https://modrinth.com/mod/antighost)                               | type `/ghost` or press `G` to fuck Ghost Block.                                  |
 | ❓Debugify       | [debugify](https://modrinth.com/mod/debugify)                                 | Fixes Minecraft bugs found on the bug tracker                                    |
@@ -58,7 +58,7 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 
 ### 🧰  Utilities
 
-| Mod                             | Shortcut                                                                                          | Desc.                                                                                                                                          |
+| Mod                             | Shortcut                                                                                          | Description                                                                                                                                    |
 | ------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Dynamic FPS                     | [dynamic-fps](https://modrinth.com/mod/dynamic-fps)                                               | Automatically reduces Minecraft renders when it's not focused.                                                                                 |
 | ModMenu                         | [modmenu](https://modrinth.com/mod/modmenu)                                                       | Adds a mod menu to view the list of mods you have installed.                                                                                   |
@@ -73,7 +73,7 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 
 ### Libs
 
-| Mods                    | Shortcut                                                                                                  | Desc.                                                                                          |
+| Mods                    | Shortcut                                                                                                  | Description                                                                                    |
 | ----------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | Quilt Fabric API        | [qsl](https://modrinth.com/mod/qsl)                                                                       | The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt! |
 | Cloth Config API        | [cloth-config](https://modrinth.com/mod/cloth-config)                                                     | Configuration Library for Minecraft Mods                                                       |
@@ -88,51 +88,54 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 
 ### 👁️‍🗨️Visual
 
-| Mod                               | Shortcut                                                                      | Desc.                                                                                                                                                                                                       |
-| --------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✨Iris                             | [iris](https://modrinth.com/mod/iris)                                         | Shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs. (Try[`canvas`](https://github.com/grondag/canvas) if you do **NOT** need OptiFine shader packs, It's much better.) |
-| Animatica                         | [animatica](https://modrinth.com/mod/animatica)                               | A mod implementing the OptiFine/MCPatcher animated texture format.                                                                                                                                          |
-| ✨[📦-Ⅲ-5] Custom Entity Models    | [cem](https://modrinth.com/mod/cem)                                           | Custom Entity Models suport on Fabric.                                                                                                                                                                      |
-| ✨[📦-Ⅲ-6] Entity Texture Features | [entitytexturefeatures](https://modrinth.com/mod/entitytexturefeatures)       | Emissive, Random & Custom texture support for entities in resourcepacks.                                                                                                                                    |
-| [📦-Ⅲ-4] CIT Resewn               | [cit-resewn](https://modrinth.com/mod/cit-resewn)                             | Re-implements MCPatcher's CIT.                                                                                                                                                                              |
-| Colormatic                        | [colormatic](https://modrinth.com/mod/colormatic)                             | Enables resource packs to add and change block and biome colors.                                                                                                                                            |
-| ✨[📦-Ⅲ-1] Continuity              | [continuity](https://modrinth.com/mod/continuity)                             | A Fabric mod that allows for efficient connected textures.                                                                                                                                                  |
-| [📦-Ⅲ-2] LambdaBetterGrass        | [lambdabettergrass](https://modrinth.com/mod/lambdabettergrass)               | A Minecraft mod which adds better grass and snow to the game.                                                                                                                                               |
-| [📦-Ⅲ-3] LambDynamicLights        | [lambdynamiclights](https://modrinth.com/mod/lambdynamiclights)               | A dynamic lights mod for Fabric.                                                                                                                                                                            |
-| Respackopts                       | [respackopts](https://modrinth.com/mod/respackopts)                           | Config menus for resource packs.                                                                                                                                                                            |
-| Capes                             | [capes](https://modrinth.com/mod/capes)                                       | use capes from OptiFine, LabyMod and other cape mods.                                                                                                                                                       |
-| Wavey Capes                       | [wavey-capes](https://modrinth.com/mod/wavey-capes)                           | The cape shouldn't be a static slab.                                                                                                                                                                        |
-| OptiGUI                           | [optigui](https://modrinth.com/mod/optigui)                                   | A drop-in replacement for OptiFine custom GUIs.                                                                                                                                                             |
-| CameraOverhaul                    | [cameraoverhaul](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul) | Improve overall satisfaction of the game through the introduction of various camera rotations, to emphasize on the player's movement and improve visual feedback.                                           |
-| SmoothCoasters                    | [smoothcoasters](https://modrinth.com/mod/smoothcoasters)                     | make your experience on roller coasters more realistic.                                                                                                                                                     |
-| Skin Layers 3D                    | [3dskinlayers](https://modrinth.com/mod/3dskinlayers)                         |                                                                                                                                                                                                             |
+| Mod                               | Shortcut                                                                      | Description                                                                                                                                                       |
+| --------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ✨Iris                             | [iris](https://modrinth.com/mod/iris)                                         | Shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs.                                                                          |
+| Animatica                         | [animatica](https://modrinth.com/mod/animatica)                               | A mod implementing the OptiFine/MCPatcher animated texture format.                                                                                                |
+| ✨[📦-Ⅲ-5] Custom Entity Models    | [cem](https://modrinth.com/mod/cem)                                           | Custom Entity Models suport on Fabric.                                                                                                                            |
+| ✨[📦-Ⅲ-6] Entity Texture Features | [entitytexturefeatures](https://modrinth.com/mod/entitytexturefeatures)       | Emissive, Random & Custom texture support for entities in resourcepacks.                                                                                          |
+| [📦-Ⅲ-4] CIT Resewn               | [cit-resewn](https://modrinth.com/mod/cit-resewn)                             | Re-implements MCPatcher's CIT.                                                                                                                                    |
+| Shimmer                           | [Shimmer](https://www.curseforge.com/minecraft/mc-mod/shimmer)                | A mod that integrates passion for rendering                                                                                                                       |
+| Colormatic                        | [colormatic](https://modrinth.com/mod/colormatic)                             | Enables resource packs to add and change block and biome colors.                                                                                                  |
+| ✨[📦-Ⅲ-1] Continuity              | [continuity](https://modrinth.com/mod/continuity)                             | A Fabric mod that allows for efficient connected textures.                                                                                                        |
+| [📦-Ⅲ-2] LambdaBetterGrass        | [lambdabettergrass](https://modrinth.com/mod/lambdabettergrass)               | A Minecraft mod which adds better grass and snow to the game.                                                                                                     |
+| [📦-Ⅲ-3] LambDynamicLights        | [lambdynamiclights](https://modrinth.com/mod/lambdynamiclights)               | A dynamic lights mod for Fabric.                                                                                                                                  |
+| Respackopts                       | [respackopts](https://modrinth.com/mod/respackopts)                           | Config menus for resource packs.                                                                                                                                  |
+| Capes                             | [capes](https://modrinth.com/mod/capes)                                       | use capes from OptiFine, LabyMod and other cape mods.                                                                                                             |
+| Wavey Capes                       | [wavey-capes](https://modrinth.com/mod/wavey-capes)                           | The cape shouldn't be a static slab.                                                                                                                              |
+| OptiGUI                           | [optigui](https://modrinth.com/mod/optigui)                                   | A drop-in replacement for OptiFine custom GUIs.                                                                                                                   |
+| CameraOverhaul                    | [cameraoverhaul](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul) | Improve overall satisfaction of the game through the introduction of various camera rotations, to emphasize on the player's movement and improve visual feedback. |
+| SmoothCoasters                    | [smoothcoasters](https://modrinth.com/mod/smoothcoasters)                     | make your experience on roller coasters more realistic.                                                                                                           |
+| Skin Layers 3D                    | [3dskinlayers](https://modrinth.com/mod/3dskinlayers)                         |                                                                                                                                                                   |
 
 ### 🌿QOL
 
-| Mod                           | Shortcut                                                                                          | Desc.                                                                                                        |
-| ----------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| ✨SomeOrdinaryTweaks           | [ordinarytweaks](https://modrinth.com/mod/ordinarytweaks)                                         | Better Horse HUD \| Toast Controls \|Disable Portals closing GUIs...                                         |
-| ✨Inspecio                     | [inspecio](https://modrinth.com/mod/inspecio)                                                     | adds new tooltips to items like shulker boxes, filled map, fish bucket, armor, food, banner patterns, etc.   |
-| BoatHud                       | [boathud](https://modrinth.com/mod/boathud)                                                       | adds a HUD specifically for boating.                                                                         |
-| AdvancementInfo               | [advancementinfo](https://modrinth.com/mod/advancementinfo)                                       | Show more information about advancement requirements                                                         |
-| ✨InvMove                      | [invmove](https://modrinth.com/mod/invmove)                                                       | adds the ability to walk around while in inventories.                                                        |
-| Mouse Tweaks                  | [mouse-tweaks](https://modrinth.com/mod/mouse-tweaks)                                             | Enhances inventory management by adding various functions to the mouse buttons.                              |
-| Inventory Profiles Next       | [inventory-profiles-next](https://modrinth.com/mod/inventory-profiles-next)                       | Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.                                |
-| Jade                          | [jade](https://modrinth.com/mod/jade)                                                             | A small unobtrusive tooltip on top of the screen with informations about the block the player is looking at. |
-| ✨Interactic                   | [interactic](https://modrinth.com/mod/interactic)                                                 | Item Filter / Enhanced Pickup and Tooltips etc. - Refined item interactions                                  |
-| [📦-Ⅱ-R] REI                  | [roughly-enough-items](https://modrinth.com/mod/roughly-enough-items)                             | Clean and Customizable. Alternative to Just Enough Items/JEI.                                                |
-| [📦-Ⅱ-R-1] Roughly Searchable | [roughly-searchable](https://www.curseforge.com/minecraft/mc-mods/roughly-searchable)             | Highlights items that match the current search in REI                                                        |
-| ✨Reasonable Sorting           | [reasonable-sorting](https://modrinth.com/mod/reasonable-sorting)                                 | Sort your items in your creative inventory. For instance, Ice, Packed Ice and Blue Ice are sorted together.  |
-| [📦Ⅳ-1] Item Borders          | [item-borders-fabric](https://www.curseforge.com/minecraft/mc-mods/item-borders-fabric)           | Add colored borders to inventory slots to make your rare items stand out!                                    |
-| [📦Ⅳ-2] Merchant Markers      | [merchant-markers-fabric](https://www.curseforge.com/minecraft/mc-mods/merchant-markers-fabric)   | add custom markers above villagers to make them stand out and be easier to find than ever.                   |
-| [📦Ⅳ-3] Equipment Compare     | [equipment-compare-fabric](https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric) | simply makes it easier to compare equipment at a glance                                                      |
-| [📦Ⅳ-4] Item Highlighter      | [item-highlighter-fabric](https://www.curseforge.com/minecraft/mc-mods/item-highlighter-fabric)   | Quickly find new items by showing an animated star on all newly-picked up items.                             |
-| Step​Up                       | [stepup](https://modrinth.com/mod/stepup)                                                         | Increase your step height - like autojump but without the disadvantages                                      |
-| Boat Item View                | [boat-item-view](https://modrinth.com/mod/boat-item-view)                                         | See your held items when in a moving boat!                                                                   |
+| Mod                                  | Shortcut                                                                                          | Description                                                                                                     |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ✨SomeOrdinaryTweaks                  | [ordinarytweaks](https://modrinth.com/mod/ordinarytweaks)                                         | Better Horse HUD \| Toast Controls \|Disable Portals closing GUIs...                                            |
+| ✨Inspecio                            | [inspecio](https://modrinth.com/mod/inspecio)                                                     | adds new tooltips to items like shulker boxes, filled map, fish bucket, armor, food, banner patterns, etc.      |
+| BoatHud                              | [boathud](https://modrinth.com/mod/boathud)                                                       | adds a HUD specifically for boating.                                                                            |
+| AdvancementInfo                      | [advancementinfo](https://modrinth.com/mod/advancementinfo)                                       | Show more information about advancement requirements                                                            |
+| Mouse Tweaks                         | [mouse-tweaks](https://modrinth.com/mod/mouse-tweaks)                                             | Enhances inventory management by adding various functions to the mouse buttons.                                 |
+| Inventory Profiles Next              | [inventory-profiles-next](https://modrinth.com/mod/inventory-profiles-next)                       | Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.                                   |
+| Jade                                 | [jade](https://modrinth.com/mod/jade)                                                             | A small unobtrusive tooltip on top of the screen with informations about the block the player is looking at.    |
+| ✨Interactic                          | [interactic](https://modrinth.com/mod/interactic)                                                 | Item Filter / Enhanced Pickup and Tooltips etc. - Refined item interactions                                     |
+| [📦-Ⅱ-R] REI                         | [roughly-enough-items](https://modrinth.com/mod/roughly-enough-items)                             | Clean and Customizable. Alternative to Just Enough Items/JEI.                                                   |
+| [📦-Ⅱ-R-1] Roughly Searchable        | [roughly-searchable](https://www.curseforge.com/minecraft/mc-mods/roughly-searchable)             | Highlights items that match the current search in REI                                                           |
+| [📦-Ⅱ-R-2] Roughly Enough Characters | [roughly-enough-characters](https://modrinth.com/mod/roughly-enough-characters)                   | Adds pinyin search for Minecraft(Fabric).                                                                       |
+| ✨Reasonable Sorting                  | [reasonable-sorting](https://modrinth.com/mod/reasonable-sorting)                                 | Sort your items in your creative inventory. For instance, Ice, Packed Ice and Blue Ice are sorted together.     |
+| [📦Ⅳ-1] Item Borders                 | [item-borders-fabric](https://www.curseforge.com/minecraft/mc-mods/item-borders-fabric)           | Add colored borders to inventory slots to make your rare items stand out!                                       |
+| [📦Ⅳ-2] Merchant Markers             | [merchant-markers-fabric](https://www.curseforge.com/minecraft/mc-mods/merchant-markers-fabric)   | add custom markers above villagers to make them stand out and be easier to find than ever.                      |
+| [📦Ⅳ-3] Equipment Compare            | [equipment-compare-fabric](https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric) | simply makes it easier to compare equipment at a glance                                                         |
+| [📦Ⅳ-4] Item Highlighter             | [item-highlighter-fabric](https://www.curseforge.com/minecraft/mc-mods/item-highlighter-fabric)   | Quickly find new items by showing an animated star on all newly-picked up items.                                |
+| Step​Up                              | [stepup](https://modrinth.com/mod/stepup)                                                         | Increase your step height - like autojump but without the disadvantages                                         |
+| Boat Item View                       | [boat-item-view](https://modrinth.com/mod/boat-item-view)                                         | See your held items when in a moving boat!                                                                      |
+| Inventory Tabs (updated)             | [inventory-tabs-updated](https://modrinth.com/mod/inventory-tabs-updated)                         | Client side mod to access nearby blocks without leaving your inventory! Updated for 1.18 and 1.19!              |
+| Held Item Info                       | [held-item-info](https://www.curseforge.com/minecraft/mc-mods/held-item-info)                     | A client-side Fabric / Quilt mod that shows information (like enchantments) about the held item under its name. |
 
 ### ✨Featured
 
-| Mod                 | Shortcut                                                                    | Desc.                                                                       |
+| Mod                 | Shortcut                                                                    | Description                                                                 |
 | ------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | MaLiLib             | [malilib](https://www.curseforge.com/minecraft/mc-mods/malilib)             | Library mod for masa's client-side Minecraft mods                           |
 | Tweakeroo           | [tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)         | A client-side Minecraft mod that adds various "tweaks"                      |
@@ -148,8 +151,9 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 
 ### 🧰Utilities
 
-| Mod                 | Shortcut                                                                                | Desc.                                                                                     |
+| Mod                 | Shortcut                                                                                | Description                                                                               |
 | ------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Better Taskbar      | better-taskbar                                                                          | Show state on taskbar                                                                     |
 | Fabrishot           | [fabrishot](https://modrinth.com/mod/fabrishot)                                         | Press `F9` to take a awesome screenshot.                                                  |
 | Screencopy          | [screencopy](https://modrinth.com/mod/screencopy)                                       | Let's you copy screenshots to your clipboard.                                             |
 | Ok Zoomer           | [ok-zoomer](https://modrinth.com/mod/ok-zoomer)                                         | Adds a highly-configurable zoom key for Fabric.                                           |
@@ -162,7 +166,7 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 
 ### Fun
 
-| Mods                                                                                             | Shortcut                                                                                                | Desc.                                                                                                |
+| Mods                                                                                             | Shortcut                                                                                                | Description                                                                                          |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | Mod-erate Loading Screen                                                                         | [moderate-loading-screen](https://modrinth.com/mod/moderate-loading-screen)                             | Watch out for loading screen Mods Rain                                                               |
 | Seamless Loading Screen                                                                          | [seamless-loading-screen](https://modrinth.com/mod/seamless-loading-screen)                             | Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it. |
@@ -174,7 +178,7 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 
 ### Designed for special use cases
 
-| Mod            | Shortcut                                        | Desc.                                                                       |
+| Mod            | Shortcut                                        | Description                                                                 |
 | -------------- | ----------------------------------------------- | --------------------------------------------------------------------------- |
 | ViaFabric      | [viafabric](https://modrinth.com/mod/viafabric) | Allows to connect to older servers with older versions                      |
 | Pick Block Pro | pick-block-pro                                  | An advanced client side Block, Entity, NBT, Tool and ID picker (Fabric)     |
@@ -182,5 +186,3 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 | IBE Editor     | ibe-editor                                      | Simple GUI Mod to edit an item, a block or an entity in your current world. |
 | Plasmo Voice   | plasmo-voice                                    | A proximity voice chat mod with audio positioning and lots of features.     |
 | Bobby          | [bobby](https://modrinth.com/mod/bobby)         | Allows for render distances greater than the server's view-distance.        |
-
-# 

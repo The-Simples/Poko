@@ -1,13 +1,13 @@
 name = "Poko"
 author = "The-Simples"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f5b3af52413f61e5023ad307ffe16a1755f0afe64697264e08fed59cb83a643d"
+hash = "c54442f91d6bc3936e6c265ce6152692e39c13e45d70b92fa4df2ff8b4589bd5"
 
 [versions]
 minecraft = "1.18.2"
-quilt = "0.17.1-beta.4"
+quilt = "0.17.1-beta.6"
