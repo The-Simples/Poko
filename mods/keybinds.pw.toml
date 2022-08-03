@@ -1,0 +1,13 @@
+name = "Keybinds Galore"
+filename = "KeybindsGalore-1.0+1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b3e7b27f17d5ebe75833150a36a1e2da274553d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3583449
+project-id = 507425

@@ -402,6 +402,11 @@ hash = "08b1011cc3f0df440355e43fb4373927892c44e1c474e8cd6cf8a0bd010bf258"
 metafile = true
 
 [[files]]
+file = "mods/keybinds.pw.toml"
+hash = "107da0660a9c7876f29573b0bf87480bb565466188e9d5312cf9cd591428caf0"
+metafile = true
+
+[[files]]
 file = "mods/kronhud.pw.toml"
 hash = "8d28ce59472b0297b371e6fbf747be39afa1377363af41ebe02cc91047a66ddd"
 metafile = true

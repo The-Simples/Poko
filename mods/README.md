@@ -132,6 +132,7 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 | Boat Item View                       | [boat-item-view](https://modrinth.com/mod/boat-item-view)                                         | See your held items when in a moving boat!                                                                      |
 | Inventory Tabs (updated)             | [inventory-tabs-updated](https://modrinth.com/mod/inventory-tabs-updated)                         | Client side mod to access nearby blocks without leaving your inventory! Updated for 1.18 and 1.19!              |
 | Held Item Info                       | [held-item-info](https://www.curseforge.com/minecraft/mc-mods/held-item-info)                     | A client-side Fabric / Quilt mod that shows information (like enchantments) about the held item under its name. |
+| Keybinds Galore                      | [keybinds](https://www.curseforge.com/minecraft/mc-mods/keybinds)                                 |                                                                                                                 |
 
 ### ✨Featured
 
