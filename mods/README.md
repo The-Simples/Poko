@@ -43,6 +43,7 @@ Legend: ✨- `utility is obvious under common cases`  | ⚠️- `Unstable` ❓ -
 | [📦Ⅰ-1] Reese's Sodium Options | [reeses-sodium-options](https://modrinth.com/mod/reeses-sodium-options) | Alternative Options Menu for Sodium                                                                                         |
 | ⚠️✨Starlight                   | [starlight](https://modrinth.com/mod/starlight)                         | Rewrites the light engine to fix lighting performance and lighting errors.                                                  |
 | ⚠️Very Many Player             | [vmp-fabric](https://modrinth.com/mod/vmp-fabric)                       | Improve server performance at high playercounts.                                                                            |
+| fastload                       | [fastload](https://modrinth.com/mod/fastload)                           | Modifies the 441 Loading Engine to decrease world loading times.                                                            |
 
 ### 🛠️ Fix
 
