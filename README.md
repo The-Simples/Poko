@@ -3,7 +3,7 @@
 <div align="center">
 <img alt="Simple" src="./.github/assets/banner.jpg" />
 
-<h6 align="center">1.16.5(Soon) | 🔼1.18.2 | 1.19.1(Soon) </h6>
+<h6 align="center">1.16.5(Soon) | 🔼1.18.2 | 1.19.x(WIP) </h6>
 
 <!-- Shields -->
 
@@ -19,14 +19,14 @@
 [![Modrinth]](https://rewrite.modrinth.com/modpack/poko)
 [![CurseForge]](https://www.curseforge.com/minecraft/modpack/poko/)
 <br>[![QQ]](https://jq.qq.com/?_wv=1027&k=sErWsdhA)
-[![Documentation]](https://poko-mc.vercel.app/)
+[![Documentation]](https://poko-mc.netlify.app/)
 [![Discord]](https://discord.gg/dCVkjehCFS)
 
 </div>
 
 ## introduction
 
-[![ModsCount]](https://poko-mc.vercel.app/mod-list) <-- Click to view mod lists.
+[![ModsCount]](https://poko-mc.netlify.app/mod-list) <-- Click to view mod lists.
 
 Poko is an ModPack dedicated to compatibility with the vanilla server, committed to introducing elegant tools and maintaining high performance, providing you with a highly customized gaming experience.
 
@@ -46,9 +46,10 @@ Poko is an ModPack dedicated to compatibility with the vanilla server, committed
 
 ## 🎁 Credits
 
-- **Mods** --- Please check our [Mod List](https://poko-mc.vercel.app/mod-list), we link 
+- **Mods** --- Please check our [Mod List](https://poko-mc.netlify.app/mod-list), we link 
   **every mods** to its origin pages. Without these awesome creators, this mod pack would not exist!
 - [**Eclectic Trove**](https://www.curseforge.com/minecraft/texture-packs/eclectic-trove-legendary-tooltips/) --- Created by Grend_G, A resource pack enriches your tooltips!
+- [**GUI Retextures**](https://www.curseforge.com/minecraft/texture-packs/gui-retextures) --- Created by flatjim_ , make Minecraft's GUIs look a bit more vibrant and interesting.
 
 ## ShowCases
 

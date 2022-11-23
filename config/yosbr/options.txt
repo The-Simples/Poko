@@ -1,5 +1,5 @@
 version:2975
-quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","file/EclecticTrove-noconfig-1.18.1-1.1.0.zip","lambdabettergrass/default","programer_art","vanilla","file/Language.zip","file/Stay_True_1.18.zip"]
+quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","file/EclecticTrove-noconfig-1.18-1.2.0.zip","lambdabettergrass/default","programer_art","vanilla","file/Language.zip","file/Stay_True_1.18.zip","file/guiretextures-darkmode-1.7.6.zip"]
 autoJump:false
 enableVsync:false
 discrete_mouse_scroll:false
@@ -20,7 +20,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["file/Language.zip","vanilla","continuity/default","continuity/glass_pane_culling_fix","file/EclecticTrove-noconfig-1.18.1-1.1.0.zip"]
+resourcePacks:["file/Language.zip","vanilla","continuity/default","continuity/glass_pane_culling_fix","file/Stay_True_1.18.zip","file/EclecticTrove-noconfig-1.18-1.2.0.zip","file/guiretextures-darkmode-1.7.6.zip"]
 incompatibleResourcePacks:[]
 pauseOnLostFocus:true
 overrideWidth:0
