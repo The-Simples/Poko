@@ -1,13 +1,13 @@
 name = "Reasonable Sorting"
-filename = "reasonable-sorting-quilt-2.0.2-mc1.18.2.jar"
+filename = "reasonable-sorting-fabric-2.1.0-mc1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ghf7OqIS/versions/2.0.2-quilt-1.18.2/reasonable-sorting-quilt-2.0.2-mc1.18.2.jar"
+url = "https://cdn.modrinth.com/data/ghf7OqIS/versions/kgGrTNtC/reasonable-sorting-fabric-2.1.0-mc1.18.2.jar"
 hash-format = "sha1"
-hash = "e8bf272ee87af3e10e92cb452d8b5fac0e07883a"
+hash = "317913bebfcbd3fe23a08afadf2b0086886610ca"
 
 [update]
 [update.modrinth]
 mod-id = "ghf7OqIS"
-version = "SoDDvgg8"
+version = "kgGrTNtC"
