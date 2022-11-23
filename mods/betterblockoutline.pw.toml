@@ -1,13 +1,13 @@
 name = "BetterBlockOutline"
-filename = "BetterBlockOutline-1.4.2-1.18.1.jar"
+filename = "BetterBlockOutline-1.5.1-1.19.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tBrBqOsV/versions/1.4.2-1.18.1/BetterBlockOutline-1.4.2-1.18.1.jar"
+url = "https://cdn.modrinth.com/data/tBrBqOsV/versions/1.5.1-1.19/BetterBlockOutline-1.5.1-1.19.jar"
 hash-format = "sha1"
-hash = "3bc9c5920099060aea70290a27b498da1dcd2107"
+hash = "188f624e9445925a4962567ec8b1590b2c53e93b"
 
 [update]
 [update.modrinth]
 mod-id = "tBrBqOsV"
-version = "9iUdux06"
+version = "fe3RTsed"

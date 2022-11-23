@@ -1,13 +1,13 @@
 name = "AdvancedChatLog"
-filename = "AdvancedChatLog-1.18.2-1.2.1.jar"
+filename = "AdvancedChatLog-1.19-1.2.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6PRTTuco/versions/1.18.2-1.2.1/AdvancedChatLog-1.18.2-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/6PRTTuco/versions/1.19-1.2.2/AdvancedChatLog-1.19-1.2.2.jar"
 hash-format = "sha1"
-hash = "517cec9ff425de6e2f5967035017235a112cd577"
+hash = "3d83a21ede9b69c7fe601f8cef0fb8f09953fb91"
 
 [update]
 [update.modrinth]
 mod-id = "6PRTTuco"
-version = "eUmKW9YR"
+version = "teWXIiYg"

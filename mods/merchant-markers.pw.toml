@@ -1,13 +1,13 @@
 name = "Merchant Markers"
-filename = "MerchantMarkers-1.18.2-fabric-1.2.2.jar"
+filename = "MerchantMarkers-1.19.1-fabric-1.2.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AGhiJWsU/versions/QcOT3YMj/MerchantMarkers-1.18.2-fabric-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/AGhiJWsU/versions/WAVTYKiy/MerchantMarkers-1.19.1-fabric-1.2.3.jar"
 hash-format = "sha1"
-hash = "2730daee34cd575c98c1eadf1acd74efef47c29e"
+hash = "cf888cfeb6ea386d26d6be6f162322cf28854679"
 
 [update]
 [update.modrinth]
 mod-id = "AGhiJWsU"
-version = "QcOT3YMj"
+version = "WAVTYKiy"

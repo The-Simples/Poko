@@ -1,13 +1,13 @@
 name = "Stay True"
-filename = "Stay_True_1.18.zip"
+filename = "Stay_True_1.19.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "39a4638db2c2acddeadf4c0b8c36ad317fc51d7a"
+hash = "fa2bfd3638eb5db9ebec1027984ae1f8d5d41835"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3598573
+file-id = 3866221
 project-id = 353554

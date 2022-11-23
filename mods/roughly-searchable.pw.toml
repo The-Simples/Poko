@@ -1,13 +1,13 @@
 name = "Roughly Searchable"
-filename = "roughly-searchable-2.4.1+1.18.2.jar"
+filename = "roughly-searchable-2.5.0+1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ad4939eec1e1d585598a3104d381a2ca901e2cf6"
+hash = "d579174b7d1511b75637aff90b9f776e6c221f98"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3808493
+file-id = 3823253
 project-id = 392023
