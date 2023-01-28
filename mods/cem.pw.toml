@@ -3,11 +3,11 @@ filename = "cem-0.7.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YOQCucah/versions/0.7.1-1.19/cem-0.7.1.jar"
+url = "https://cdn.modrinth.com/data/YOQCucah/versions/BA6hkd1D/cem-0.7.1.jar"
 hash-format = "sha1"
-hash = "96c943ee9282945877fe85e7c474ccddbaca0401"
+hash = "c99165b56680c6f99b6bef5989070bb6e817adce"
 
 [update]
 [update.modrinth]
 mod-id = "YOQCucah"
-version = "pobVcvCg"
+version = "BA6hkd1D"

@@ -4,8 +4,9 @@
     
     ],
     "top_right": [
-    {"text":"Poko v1.1","clickEvent":{"action":"open_url","value":"https://poko-mc.vercel.app/"}},
-    {"text":"Repository","clickEvent":{"action":"open_url","value":"https://github.com/The-Simples/Poko"}}
+    {"text":"Poko v2.0.0","clickEvent":{"action":"open_url","value":"https://poko-mc.netlify.app/"}},
+    {"text":"Modrinth","clickEvent":{"action":"open_url","value":"https://rewrite.modrinth.com/modpack/poko"}},
+    {"text":"Report Issues","clickEvent":{"action":"open_url","value":"https://github.com/The-Simples/Poko/issues/new/choose"}}
     ],
     "bottom_left": [
     

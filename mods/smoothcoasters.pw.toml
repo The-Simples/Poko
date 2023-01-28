@@ -1,13 +1,13 @@
 name = "SmoothCoasters"
-filename = "SmoothCoasters-1.19-v1.jar"
+filename = "SmoothCoasters-1.19.3-v1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XqNNpHvS/versions/1.19-v1/SmoothCoasters-1.19-v1.jar"
+url = "https://cdn.modrinth.com/data/XqNNpHvS/versions/WIbLec9x/SmoothCoasters-1.19.3-v1.jar"
 hash-format = "sha1"
-hash = "11ba65c5c3ab9c4373001212a8bb7dde71e95001"
+hash = "874ae4ce2c6dda6ed348d574cd1caf416d0e12ac"
 
 [update]
 [update.modrinth]
 mod-id = "XqNNpHvS"
-version = "53Ll4gh9"
+version = "WIbLec9x"

@@ -19,7 +19,7 @@
     "noteblockinfo": true,
     "signtext": true,
     "infested": true,
-    "redstoneinfo": true,
+    "redstoneinfo": false,
     "facingtext": false,
     "blocklevel": false,
     "waterloggedtext": false,
@@ -36,7 +36,7 @@
     "coordinatestext": false
   },
   "blockinfo3d": {
-    "active": false,
+    "active": true,
     "lineWidth": 2.0,
     "lineColor": "#FFAFAFAF",
     "infestedsilverfish": true,
@@ -45,111 +45,324 @@
   "directionarrow": {
     "arrowType": "line",
     "cycleArrow": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "logicalDirection": true
   },
   "hotkeys": {
     "menu": {
-      "keys": "B"
+      "ordered": false,
+      "blocking": false,
+      "keys": [
+        "B"
+      ],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "toggleModActive": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "toggleInfoActive": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "disableAllInfo": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "toggleInfoActive3d": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "disableAllInfo3d": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "togglePersistentForBlock": {
-      "keys": "M"
+      "ordered": false,
+      "blocking": false,
+      "keys": [
+        "N"
+      ],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "clearPersistentBlocks": {
-      "keys": "N"
+      "ordered": false,
+      "blocking": false,
+      "keys": [
+        "N"
+      ],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "noteblockinfo": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "signtext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "infested": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "redstoneinfo": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "facingtext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "blocklevel": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "waterloggedtext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "opentext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "persistent": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "distancetext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "layerstext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "dripleaftilttext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "chargestext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "bitestext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "agetext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "beetext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "leveltext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "coordinatestext": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "infestedsilverfish": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     },
     "directionarrow": {
-      "keys": ""
+      "ordered": false,
+      "blocking": false,
+      "keys": [],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
     }
   },
   "color_modifiers": {
     "outline": [
       {
-        "name": "08a12ec-blink",
-        "active": true,
-        "duration": 5.0,
-        "offset": 0.0,
+        "colorConfig": {
+          "duration": 5.0,
+          "offset": 0.0,
+          "active": true,
+          "type": "blink"
+        },
         "type": "blink"
       },
       {
-        "name": "40748c5-tool",
-        "active": true,
-        "onSuitable": true,
-        "tint": "#FFFFFFFF",
-        "percent": 1.0,
+        "colorConfig": {
+          "onSuitable": true,
+          "active": true,
+          "type": "tool",
+          "tint": "#FFFFFFFF",
+          "percent": 1.0
+        },
         "type": "tool"
       }
     ],

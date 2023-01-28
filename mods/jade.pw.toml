@@ -1,13 +1,13 @@
 name = "Jade 🔍"
-filename = "Jade-1.19.1-fabric-8.6.2.jar"
+filename = "Jade-1.19.3-fabric-9.3.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/uVdWPdsM/Jade-1.19.3-fabric-9.3.1.jar"
 hash-format = "sha1"
-hash = "dc1ab5ee3b5dec13e91158f761794b83e8dabd6a"
-mode = "metadata:curseforge"
+hash = "35ad456c2b2a2d2f648fc79f49802a02b3e90139"
 
 [update]
-[update.curseforge]
-file-id = 4104894
-project-id = 324717
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "uVdWPdsM"

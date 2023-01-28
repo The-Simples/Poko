@@ -1,1 +1,694 @@
-{"configVersion":"2","kronhud:crosshairhud":{"enabled":true,"scale":1.0,"type":"cross","showInF5":false,"defaultcolor":"#FFFFFFFF","entitycolor":"#FFBF2222","blockcolor":"#FF3399FF","attackindicatorbg":"#FF141414","attackindicatorfg":"#FFFFFFFF","x":0.5,"y":0.5},"kronhud:fpshud":{"enabled":true,"scale":0.85,"textcolor":"#FFFFFFFF","shadow":true,"background":false,"backgroundcolor":"#64000000","x":0.0,"y":0.0},"kronhud:pinghud":{"enabled":true,"scale":0.85,"textcolor":"#FFFFFFFF","shadow":true,"background":false,"backgroundcolor":"#64000000","x":0.0,"y":0.04803493618965149},"kronhud:keystrokehud":{"enabled":true,"scale":0.78,"textcolor":"#FFFFFFFF","heldtextcolor":"#FF000000","shadow":false,"background":true,"backgroundcolor":"#64000000","heldbackgroundcolor":"#64FFFFFF","x":0.9585492014884949,"y":1.0},"kronhud:scoreboardhud":{"enabled":true,"scale":0.85,"background":true,"topbackgroundcolor":"#66000000","backgroundcolor":"#4C000000","shadow":true,"scores":true,"scorecolor":"#FFFF5555","x":1.0,"y":0.5},"kronhud:armorhud":{"enabled":true,"scale":0.8,"textcolor":"#FFFFFFFF","shadow":true,"background":false,"backgroundcolor":"#64000000","x":1.0,"y":1.0},"kronhud:itemupdatehud":{"enabled":true,"scale":0.85,"shadow":true,"timeout":2,"x":0.7782101035118103,"y":0.9784946441650391},"kronhud:coordshud":{"enabled":true,"scale":0.75,"background":false,"backgroundcolor":"#64000000","firsttextcolor":"#FF3399FF","secondtextcolor":"#FFFFFFFF","decimalplaces":0,"x":1.0,"y":0.0},"kronhud:bossbarhud":{"enabled":true,"scale":0.75,"text":true,"textcolor":"#FFFFFFFF","shadow":true,"bar":true,"x":0.47325101494789124,"y":0.0},"kronhud:actionbarhud":{"enabled":true,"scale":1.2,"shadow":true,"timeshown":60,"customtextcolor":false,"textcolor":"#FFFFFFFF","x":0.5,"y":0.7444933652877808},"kronhud:iphud":{"enabled":false,"scale":1.0,"textcolor":"#FFFFFFFF","shadow":true,"background":false,"backgroundcolor":"#64000000","x":0.0,"y":0.0969163030385971},"kronhud:speedhud":{"enabled":true,"scale":0.78,"textcolor":"#FFFFFFFF","shadow":true,"background":false,"backgroundcolor":"#64000000","horizontal":true,"x":1.0,"y":0.10869564861059189},"kronhud:potionshud":{"enabled":true,"scale":0.8,"textcolor":"#FFFFFFFF","shadow":true,"x":0.0,"y":1.0},"kronhud:arrowhud":{"enabled":true,"scale":0.78,"textcolor":"#FFFFFFFF","shadow":true,"background":false,"backgroundcolor":"#64000000","dynamic":false,"allArrowTypes":false,"x":0.751842737197876,"y":1.0},"kronhud:cpshud":{"enabled":true,"scale":0.78,"textcolor":"#FFFFFFFF","shadow":true,"background":false,"backgroundcolor":"#64000000","cpskeybind":false,"rightcps":false,"x":0.9585492014884949,"y":0.791304349899292}}
+{
+  "configVersion": "2",
+  "kronhud:crosshairhud": {
+    "blockcolor": {
+      "color": "#FF3399FF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "attackindicatorbg": {
+      "color": "#FF141414",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "defaultcolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "attackindicatorfg": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "x": 0.5,
+    "scale": 1.0,
+    "showInF5": false,
+    "y": 0.5,
+    "entitycolor": {
+      "color": "#FFBF2222",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "type": "cross",
+    "enabled": true
+  },
+  "kronhud:fpshud": {
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "scale": 0.85,
+    "enabled": true,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "outline": false,
+    "minwidth": 53,
+    "background": false,
+    "x": 0.04583333432674408,
+    "y": 0.0,
+    "anchorpoint": "topmiddle",
+    "justification": "center",
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:pinghud": {
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "scale": 0.85,
+    "enabled": true,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "outline": false,
+    "minwidth": 53,
+    "background": false,
+    "x": 0.0,
+    "y": 0.04803493618965149,
+    "anchorpoint": "topmiddle",
+    "justification": "center",
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:keystrokehud": {
+    "shadow": false,
+    "heldbackgroundcolor": {
+      "color": "#64FFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "textcolor": "#FFFFFFFF",
+    "scale": 0.78,
+    "enabled": true,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "mousemovement": false,
+    "outline": false,
+    "background": true,
+    "heldoutlinecolor": {
+      "color": "#00000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "x": 0.9585492014884949,
+    "y": 1.0,
+    "heldtextcolor": "#FF000000",
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:scoreboardhud": {
+    "shadow": true,
+    "scores": true,
+    "scale": 0.85,
+    "topbackgroundcolor": {
+      "color": "#66000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "enabled": true,
+    "backgroundcolor": {
+      "color": "#4C000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "scorecolor": "#FFFF5555",
+    "outline": false,
+    "background": true,
+    "x": 1.0,
+    "y": 0.5,
+    "anchorpoint": "middleright",
+    "toppadding": 0,
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:armorhud": {
+    "outline": false,
+    "shadow": true,
+    "background": false,
+    "textcolor": "#FFFFFFFF",
+    "x": 0.0,
+    "scale": 0.8,
+    "y": 0.6499999761581421,
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "enabled": true,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:itemupdatehud": {
+    "outline": false,
+    "shadow": true,
+    "background": false,
+    "textcolor": "#FFFFFFFF",
+    "x": 0.612500011920929,
+    "scale": 0.85,
+    "y": 0.7925925850868225,
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "enabled": true,
+    "timeout": 2,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:coordshud": {
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "scale": 0.75,
+    "enabled": true,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "outline": false,
+    "minimal": false,
+    "secondtextcolor": "#FFFFFFFF",
+    "decimalplaces": 0,
+    "background": false,
+    "x": 1.0,
+    "y": 0.0,
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "firsttextcolor": "#FF3399FF"
+  },
+  "kronhud:bossbarhud": {
+    "bar": true,
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "x": 0.47325101494789124,
+    "scale": 0.75,
+    "y": 0.0,
+    "anchorpoint": "topmiddle",
+    "text": true,
+    "enabled": true
+  },
+  "kronhud:actionbarhud": {
+    "shadow": true,
+    "timeshown": 60,
+    "textcolor": "#FFFFFFFF",
+    "x": 0.3291666805744171,
+    "scale": 1.2,
+    "y": 0.6518518328666687,
+    "customtextcolor": false,
+    "enabled": true
+  },
+  "kronhud:iphud": {
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "scale": 1.0,
+    "enabled": false,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "outline": false,
+    "minwidth": 115,
+    "background": false,
+    "x": 0.0,
+    "y": 0.0969163030385971,
+    "anchorpoint": "topmiddle",
+    "justification": "center",
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:speedhud": {
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "scale": 0.78,
+    "enabled": true,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "horizontal": true,
+    "outline": false,
+    "minwidth": 53,
+    "background": false,
+    "x": 0.956250011920929,
+    "y": 0.08518518507480621,
+    "anchorpoint": "topmiddle",
+    "justification": "center",
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:potionshud": {
+    "cardinalorder": "topdown",
+    "iconsonly": false,
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "x": 0.0,
+    "scale": 0.8,
+    "y": 0.36666667461395264,
+    "anchorpoint": "topleft",
+    "enabled": true
+  },
+  "kronhud:arrowhud": {
+    "outline": false,
+    "shadow": true,
+    "allArrowTypes": false,
+    "background": false,
+    "textcolor": "#FFFFFFFF",
+    "x": 0.7611241340637207,
+    "scale": 0.78,
+    "y": 0.9041666388511658,
+    "dynamic": false,
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "enabled": true,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:cpshud": {
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "scale": 0.78,
+    "rightcps": false,
+    "enabled": true,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "outline": false,
+    "minwidth": 53,
+    "background": false,
+    "x": 0.9585492014884949,
+    "y": 0.791304349899292,
+    "anchorpoint": "topmiddle",
+    "justification": "center",
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "cpskeybind": false
+  },
+  "kronhud:combohud": {
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "scale": 1.0,
+    "enabled": false,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "outline": false,
+    "minwidth": 53,
+    "background": true,
+    "x": 0.2958333194255829,
+    "y": 0.39259257912635803,
+    "anchorpoint": "topmiddle",
+    "justification": "center",
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:compasshud": {
+    "shadow": true,
+    "invert": false,
+    "majorindicator": "#FFFFFFFF",
+    "cardinalcolor": "#FFFFFFFF",
+    "textcolor": "#FFFFFFFF",
+    "scale": 1.0,
+    "degreescolor": "#FFFFFFFF",
+    "enabled": false,
+    "minorindicator": "#CCFFFFFF",
+    "semicardinalcolor": "#FFAAAAAA",
+    "width": 240,
+    "lookingbox": "#80000000",
+    "x": 0.0,
+    "showdegrees": true,
+    "y": 0.0
+  },
+  "kronhud:irltimehud": {
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "scale": 1.0,
+    "enabled": false,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "outline": false,
+    "minwidth": 53,
+    "background": true,
+    "x": 0.2562499940395355,
+    "y": 0.36666667461395264,
+    "anchorpoint": "topmiddle",
+    "justification": "center",
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "dateformat": "HH:mm:ss"
+  },
+  "kronhud:playerhud": {
+    "outline": false,
+    "background": true,
+    "rotation": 0.0,
+    "dynamicrotation": true,
+    "x": 0.0,
+    "scale": 1.0,
+    "y": 0.0,
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "enabled": false,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:reachhud": {
+    "shadow": true,
+    "scale": 1.0,
+    "enabled": false,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "outline": false,
+    "decimalplaces": 0,
+    "minwidth": 53,
+    "background": true,
+    "x": 0.34583333134651184,
+    "y": 0.3185185194015503,
+    "anchorpoint": "topmiddle",
+    "justification": "center",
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "kronhud:togglesprint": {
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "scale": 1.0,
+    "randomPlaceholder": false,
+    "enabled": false,
+    "sneakToggled": false,
+    "minwidth": 100,
+    "x": 0.1041666641831398,
+    "y": 0.2925925850868225,
+    "anchorpoint": "topmiddle",
+    "toggleSneak": false,
+    "sprintToggled": false,
+    "justification": "center",
+    "placeholder": "No keys pressed",
+    "toggleSprint": false
+  },
+  "kronhud:tpshud": {
+    "shadow": true,
+    "textcolor": "#FFFFFFFF",
+    "scale": 1.0,
+    "enabled": false,
+    "backgroundcolor": {
+      "color": "#64000000",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    },
+    "outline": false,
+    "minwidth": 53,
+    "background": true,
+    "x": 0.0,
+    "y": 0.0,
+    "anchorpoint": "topmiddle",
+    "justification": "center",
+    "outlinecolor": {
+      "color": "#FFFFFFFF",
+      "chroma": {
+        "saturation": 1.0,
+        "size": 0.5,
+        "active": false,
+        "opacity": 1.0,
+        "speed": 0.5
+      }
+    }
+  },
+  "general": {
+    "RIGHT_SHIFT": {
+      "ordered": false,
+      "blocking": true,
+      "keys": [
+        "RIGHT_SHIFT"
+      ],
+      "exclusive": false,
+      "check": {
+        "inGame": true,
+        "inGui": false
+      }
+    }
+  }
+}

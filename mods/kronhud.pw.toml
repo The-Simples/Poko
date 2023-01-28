@@ -1,13 +1,13 @@
 name = "KronHUD"
-filename = "KronHUD-1.19.2-2.2.3.jar"
-side = "both"
+filename = "KronHUD-1.19.3-2.2.4.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/uDMPYwAN/versions/PmKnIrS0/KronHUD-1.19.3-2.2.4.jar"
 hash-format = "sha1"
-hash = "5a3cf99cc848b3aaaecddba438295949ac9c8597"
-mode = "metadata:curseforge"
+hash = "f2fee1e41494ee7c3c76bcc6f39934da36654943"
 
 [update]
-[update.curseforge]
-file-id = 4060028
-project-id = 403941
+[update.modrinth]
+mod-id = "uDMPYwAN"
+version = "PmKnIrS0"
