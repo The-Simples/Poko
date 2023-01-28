@@ -1,13 +1,13 @@
 name = "Stendhal"
-filename = "stendhal-1.3.3-1.18.jar"
+filename = "stendhal-1.3.4-1.18.x.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BWloQ9jK/versions/1.3.3/stendhal-1.3.3-1.18.jar"
+url = "https://cdn.modrinth.com/data/BWloQ9jK/versions/YzKB2i5W/stendhal-1.3.4-1.18.x.jar"
 hash-format = "sha1"
-hash = "a6a47235fadde3e28d27111d72ccc0d61988ee50"
+hash = "a78ca8fa99868d4c9ffb61f58debb874cbbd8177"
 
 [update]
 [update.modrinth]
 mod-id = "BWloQ9jK"
-version = "cSzSbcvJ"
+version = "YzKB2i5W"

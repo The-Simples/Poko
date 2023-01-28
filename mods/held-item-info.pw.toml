@@ -1,13 +1,13 @@
 name = "Held Item Info"
-filename = "held-item-info-1.2.0.jar"
+filename = "held-item-info-1.4.2+1.18.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "764c7f72e1ea6298baf931a74ca4dde947892769"
+hash = "c540231f4aac4a4616d9d97c41e7a06266e7c34c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3346573
+file-id = 4338700
 project-id = 365615
