@@ -1,13 +1,13 @@
 name = "Loading Screen Tips"
-filename = "loadingscreentips-1.1.1.jar"
+filename = "loadingscreentips-1.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9iE55lp5/versions/BjtRWlFk/loadingscreentips-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/9iE55lp5/versions/NJbntyZd/loadingscreentips-1.2.0.jar"
 hash-format = "sha1"
-hash = "9c34fba77be47aeb85313f5dd7dbc7253d1ee570"
+hash = "dcd121f4e7a108be6e03e21255aabaaf03506c00"
 
 [update]
 [update.modrinth]
 mod-id = "9iE55lp5"
-version = "BjtRWlFk"
+version = "NJbntyZd"
